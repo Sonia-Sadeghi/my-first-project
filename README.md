@@ -1,3 +1,6 @@
 Hello guys this is me, and I am learning and practicing my Git.
-Noe I am practicing 'commits' and I am learning how to work with this command 
-git commit -a -m "تغییرات جدید".
+Until now I have reviewed the commits, tags, stashs, logs.
+
+THIS IS JUST A TEST MASSAGE.
+THIS IS SECOND LINE OF TEST.
+یک خط روی مین اضافه شده.
